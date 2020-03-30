@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "tuple": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "bit": "cpp"
+    }
+}
